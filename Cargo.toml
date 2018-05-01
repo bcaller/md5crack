@@ -1,0 +1,7 @@
+[package]
+name = "md5crack"
+version = "0.1.0"
+authors = ["bcaller <bcaller@users.noreply.github.com>"]
+
+[dependencies]
+rust-crypto = "0.2.36"
